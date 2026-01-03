@@ -1,0 +1,52 @@
+Types of Risks in Risk Management Strategy
+1. Credit Risk
+• 	Impact:
+• 	Losses due to borrowers or counterparties failing to meet obligations.
+• 	Can lead to defaults, reduced profitability, and reputational damage.
+• 	Methods of Reducing Impact:
+• 	Diversification of loan portfolios.
+• 	Credit scoring and rating systems.
+• 	Collateral and guarantees.
+• 	Regular monitoring of borrower financial health.
+• 	Quantification:
+• 	Probability of Default (PD): Likelihood borrower will default.
+• 	Loss Given Default (LGD): Expected loss if default occurs.
+• 	Exposure at Default (EAD): Total value at risk.
+• 	Combined into Expected Loss (EL = PD × LGD × EAD).
+
+2. Liquidity Risk
+• 	Impact:
+• 	Inability to meet short-term obligations due to insufficient liquid assets.
+• 	Can trigger insolvency, forced asset sales, or regulatory breaches.
+• 	Methods of Reducing Impact:
+• 	Maintaining adequate cash reserves.
+• 	Establishing committed credit lines.
+• 	Stress testing under adverse scenarios.
+• 	Asset-liability management (ALM) to balance maturities.
+• 	Quantification:
+• 	Liquidity Coverage Ratio (LCR): High-quality liquid assets vs. net cash outflows.
+• 	Net Stable Funding Ratio (NSFR): Stable funding vs. required funding.
+• 	Gap analysis of inflows vs. outflows.
+
+3. Legal Risk
+• 	Impact:
+• 	Losses from unenforceable contracts, regulatory penalties, or litigation.
+• 	Can damage reputation and lead to financial sanctions.
+• 	Methods of Reducing Impact:
+• 	Strong compliance frameworks.
+• 	Regular legal audits and contract reviews.
+• 	Clear documentation and adherence to jurisdictional laws.
+• 	Insurance coverage for litigation risks.
+• 	Quantification:
+• 	Difficult to measure precisely; often assessed via:
+• 	Scenario analysis (estimating potential fines/lawsuits).
+• 	Historical loss data from legal disputes.
+• 	Provisioning for contingent liabilities.
+
+📋 Comparison Table
+
+
+⚠️ Key Considerations
+• 	Interconnectedness: Credit and liquidity risks are often linked—defaults reduce liquidity, while liquidity shortages increase credit risk.
+• 	Quantification Challenge: Legal risk is hardest to measure; firms rely on qualitative assessments and provisioning.
+• 	Best Practice: Combine quantitative models (for credit/liquidity) with qualitative frameworks (for legal) to build a holistic risk management strategy.
